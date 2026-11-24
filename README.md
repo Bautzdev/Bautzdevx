@@ -64,7 +64,7 @@ Precision first. Force when justified. Control always.
 
 <div align="center"><img src="https://skillicons.dev/icons?i=python,bash,linux,git,github,vscode&theme=dark"/></div>▌GITHUB INTELLIGENCE
 
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=Bautzdevx&show_icons=true&theme=dark&bg_color=080808&title_color=ff2424&icon_color=ff2424&text_color=ffffff&border_color=650000"/><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bautzdevx&layout=compact&theme=dark&bg_color=080808&title_color=ff2424&text_color=ffffff&border_color=650000"/><img src="https://github-readme-activity-graph.vercel.app/graph?username=Bautzdevx&bg_color=080808&color=ffffff&line=ff2424&point=ff5555&area=true&hide_border=true" width="100%"/></div>▌BEYOND THE TERMINAL
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=bautzdevx&show_icons=true&theme=dark&bg_color=080808&title_color=ff2424&icon_color=ff2424&text_color=ffffff&border_color=650000"/><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bautzdevx&layout=compact&theme=dark&bg_color=080808&title_color=ff2424&text_color=ffffff&border_color=650000"/><img src="https://github-readme-activity-graph.vercel.app/graph?username=bautzdevx&bg_color=080808&color=ffffff&line=ff2424&point=ff5555&area=true&hide_border=true" width="100%"/></div>▌BEYOND THE TERMINAL
 
 <div align="center"><img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="280"/></div>Technology is not limited to screens.
 
